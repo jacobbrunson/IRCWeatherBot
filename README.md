@@ -32,7 +32,7 @@ If a location is unable to be determined, it will default to checking the weathe
 
 ###Disclaimers:
 
-* This is a simple project created for a computer science class.
+* This is a simple project created for a computer science class. It is not intended to be used practically.
 * It handles only a few cases, and cannot interpret sentences (i.e. does not use any Natural Language Processing).
 * My Open Weather Map API key is exposed in the WeatherService class. I understand that this is bad practice.
 
