@@ -9,7 +9,7 @@ This is an IRC chat bot created as a project for my Computer Science class.
 
 ###Usage:
 
-By default, it will connect to  Freenode#cs2336jacob using the nickname JacobWeatherBot
+By default, it will connect to  `freenode#cs2336jacob` using the nickname `JacobWeatherBot`
 
 It can handle commands in the form of `weather {location}` or `{location} weather`. Location can either be a city name
 or a zip code. Caveat: city name can only be a single word. If you want to use "New York" then instead put "NewYork"
@@ -32,7 +32,7 @@ If a location is unable to be determined, it will default to checking the weathe
 
 ###Disclaimers:
 
-* This is a simple project created for a computer science class. It is not intended to be used practically.
-* It handles only a few cases, and cannot interpret sentences (i.e. does not use any Natural Language Processing).
-* My Open Weather Map API key is exposed in the WeatherService class. I understand that this is bad practice.
+* This is a simple project created for a computer science class. It is **not intended to be used practically.**
+* It handles only a few cases, and **cannot interpret sentences** (i.e. does not use any Natural Language Processing).
+* My Open Weather Map API key is exposed in the WeatherService class. **I understand** that this is bad practice.
 
