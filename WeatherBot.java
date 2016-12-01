@@ -94,6 +94,7 @@ public class WeatherBot extends PircBot {
         } finally {
             // If we connected, the join the server
             bot.joinChannel(channel);
+            bot.sendMessage(channel, "Hello! I am a weather bot created by Jacob Brunson.");
         }
     }
 
