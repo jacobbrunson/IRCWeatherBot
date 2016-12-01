@@ -21,9 +21,14 @@ If a location is unable to be determined, it will default to checking the weathe
 
 ####Examples:
 
-    weather 10002 #Will respond with weather in New York
-    austin weather #Will respond with the weather in Austin
-    What is the weather in 75081? #Will respond with the weather in Plano
+    #Respond with weather in New York
+    weather 10002
+
+    #Respond with the weather in Austin
+    austin weather
+
+    #Respond with the weather in Plano
+    What is the weather in 75081?
 
 ###Disclaimers:
 
