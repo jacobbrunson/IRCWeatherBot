@@ -23,12 +23,15 @@ If a location is unable to be determined, it will default to checking the weathe
 
     #Respond with weather in New York
     weather 10002
+        >The weather in New York is clouds. The temperature is 47.3°F, with a high of 51.8°F and a low of 44.6°F.
 
     #Respond with the weather in Austin
     austin weather
+        >The weather in Austin is clear. The temperature is 61.5°F, with a high of 66.2°F and a low of 57.2°F.
 
     #Respond with the weather in Plano
-    What is the weather in 75081?
+    What is the weather in 75082?
+        >The weather in Plano is clear. The temperature is 61.1°F, with a high of 62.6°F and a low of 57.2°F.
 
 ###Disclaimers:
 
